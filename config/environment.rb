@@ -1,0 +1,5 @@
+require_relative '../lib/parse.rb'
+require_relative '../lib/query.rb'
+require 'active_support/inflector'
+require 'sqlite3'
+require 'csv'

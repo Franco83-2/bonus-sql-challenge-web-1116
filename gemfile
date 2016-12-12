@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+
+# Database
+gem 'sqlite3'
+gem 'active_support/inflector'
+gem 'csv'
+
+# Debugging
+gem 'pry'
